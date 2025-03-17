@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Marmar421/hse_run_front.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/burlak1n/hse_run_fastapi_final.git
